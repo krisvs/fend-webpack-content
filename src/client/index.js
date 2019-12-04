@@ -4,3 +4,4 @@ import { handleSubmit } from './js/nameChecker'
 console.log(checkForName)
 
 alert('I exist');
+alert('It works');
